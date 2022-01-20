@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240619288610",
+    "project_id": "products-coodesh",
+    "storage_bucket": "products-coodesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240619288610:android:f611df5d137537f075b27b",
+        "android_client_info": {
+          "package_name": "com.mariugo.products_coodesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240619288610-60edommb4dbj5se38rcuvgle483cjb60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOgTseIWiKsIl_x_gDWz_y7qFWt43kSME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240619288610-60edommb4dbj5se38rcuvgle483cjb60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
